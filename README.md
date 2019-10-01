@@ -1,0 +1,2 @@
+# JakubTreningGita
+Jakub Trenujemy Uczymy 
