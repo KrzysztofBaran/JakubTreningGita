@@ -1,0 +1,21 @@
+Trenujemy Gita 
+
+Wzane aby ten dokument byl dobrze zapisany i zmieniony 
+
+Zadanie 1 
+
+Zklonuj moje zdalne repo do swojego lokalnego, nastpenie dodaj wszystkie pliki ze skopiowanego repozytorium, w dodanym pliku Dokument tekstowy 
+
+Podaj Rozwiaznie zadania 2 + 2 = ? 
+
+Zacoomituj zmiany a nastepnie wypchnij zmiany do zdalnego repo na git Hubie. 
+
+Wzane: 
+
+Pamietaj ze aby commitowac zmiany wprowadzone w plikach musza one one byc dodane do repo za pomoca komendy git add . 
+
+Nastepnie uzywasz komendy git commit -m "". Sprawdzasz za pomoca komendy git status czy towje zmianay zostaly zacommitowane i czy pracujesz na czystym pbranchu 
+
+Jak upewnisz sie ze zmiany zostaly dodane i zacommitowane uzywasz komendy git push i wypychasz zmiany do zdlanego repo na git hubie. 
+
+Powodznenia Bary 
